@@ -2,6 +2,8 @@
 
 Welcome to my JavaScript learning journey repository! Here, I document my progress in creating websites and projects using JavaScript, specifically focusing on learning JavaScript ES6.
 
+Support Hitesh from [Chai aur Code](https://www.youtube.com/@chaiaurcode), for providing such valuable lessons and such deep insight in JavaScript.
+
 ## Table of Contents
 
 - [Basics](#basics)
@@ -26,3 +28,9 @@ I'm Yuvraj Chauhan, a student at IIIT Vadodara, International Campus Diu. I'm pa
     - null
     - other data types
     - commonly used data types
+    - typeof()
+
+- conversionOperations
+    - type conversion to Number
+    - true = 1, false = 0
+    - type conversion from Number to Boolean
