@@ -5,8 +5,6 @@ Welcome to my JavaScript learning journey repository! Here, I document my progre
 ## Table of Contents
 
 - [Basics](#basics)
-  - console.log()
-  - let, const, var
 
 ## Authors
 
@@ -17,3 +15,7 @@ Welcome to my JavaScript learning journey repository! Here, I document my progre
 I'm Yuvraj Chauhan, a student at IIIT Vadodara, International Campus Diu. I'm passionate about learning full-stack web development and data structures and algorithms (DSA).
 
 ## Basics
+
+- console.log()
+- let, const, var
+- console.table()
