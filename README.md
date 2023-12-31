@@ -16,6 +16,13 @@ I'm Yuvraj Chauhan, a student at IIIT Vadodara, International Campus Diu. I'm pa
 
 ## Basics
 
-- console.log()
-- let, const, var
-- console.table()
+- variables
+    - console.log()
+    - let, const, var
+    - console.table()
+
+- dataTypes
+    - undefined
+    - null
+    - other data types
+    - commonly used data types
