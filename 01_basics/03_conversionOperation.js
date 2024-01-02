@@ -28,3 +28,17 @@ console.table([
   { "Original Value": temp4, "Type of Value": typeof valueInNumber5, "Converted Value": valueInNumber5 },
   { "Original Value": numLoggedIn, "Type of Value": typeof boolLoggedIn, "Converted Value": boolLoggedIn },
 ]);
+
+//Operations in JS:
+
+let value = 3;
+let negValue = -value;
+
+console.log(negValue);
+
+console.log(2+3);
+console.log(2-3);
+console.log(2*3);
+console.log(2**3);
+console.log(2/3);
+console.log(2%3);
