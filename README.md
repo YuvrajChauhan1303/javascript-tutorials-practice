@@ -34,3 +34,17 @@ I'm Yuvraj Chauhan, a student at IIIT Vadodara, International Campus Diu. I'm pa
     - type conversion to Number
     - true = 1, false = 0
     - type conversion from Number to Boolean
+
+- comparison
+    - equality
+    - strict checking
+    - null and undefined vs Number
+
+- primitive vs non primitive & summary 
+    - BigInt
+    - Symbol
+    - Object
+    - Array
+    - Object
+    - Primitive data types
+    - Summary
