@@ -28,3 +28,18 @@ console.log(gameName.indexOf('g'));
 
 const inGame = gameName.substring(0,5);
 console.log(inGame);
+
+const stringWithSpaces = "    yuvraj    "
+console.log(stringWithSpaces);
+console.log(stringWithSpaces.trim()); // removes spaces from start and end
+
+/*
+
+some other string methods:
+
+- slice
+- replace
+- includes
+- follow ECMA or MDN for more documentation and methods
+
+*/
