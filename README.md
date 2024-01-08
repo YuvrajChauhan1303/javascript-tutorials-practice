@@ -7,6 +7,7 @@ Support Hitesh from [Chai aur Code](https://www.youtube.com/@chaiaurcode), for p
 ## Table of Contents
 
 - [Basics](#basics)
+- [More Basics](#more-basics)
 
 ## Authors
 
@@ -48,3 +49,10 @@ I'm Yuvraj Chauhan, a student at IIIT Vadodara, International Campus Diu. I'm pa
     - Object
     - Primitive data types
     - Summary
+
+## More Basics
+
+- Arrays in Detail 
+    - Methods
+    - Accessing individual elements
+    - Array Object
